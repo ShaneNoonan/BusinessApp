@@ -13,6 +13,18 @@
 		E4164B991E87340C00661187 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E4164B971E87340C00661187 /* Main.storyboard */; };
 		E4164B9B1E87340C00661187 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E4164B9A1E87340C00661187 /* Assets.xcassets */; };
 		E4164B9E1E87340C00661187 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E4164B9C1E87340C00661187 /* LaunchScreen.storyboard */; };
+		E418096C1E96BF0E001B3F64 /* SocialTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E418096B1E96BF0E001B3F64 /* SocialTableViewController.swift */; };
+		E418096E1E96BF21001B3F64 /* SocialTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E418096D1E96BF21001B3F64 /* SocialTableViewCell.swift */; };
+		E41809701E96BF43001B3F64 /* SocialViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E418096F1E96BF43001B3F64 /* SocialViewController.swift */; };
+		E425A5531E8985210009DD46 /* ServicesTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E425A5521E8985210009DD46 /* ServicesTableViewController.swift */; };
+		E425A5551E89853E0009DD46 /* ServicesTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E425A5541E89853E0009DD46 /* ServicesTableViewCell.swift */; };
+		E425A5571E8985720009DD46 /* ServicesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E425A5561E8985720009DD46 /* ServicesViewController.swift */; };
+		E482F6801E91530000014E43 /* PortfolioCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E482F67F1E91530000014E43 /* PortfolioCollectionViewController.swift */; };
+		E482F6821E91532200014E43 /* PortfolioCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E482F6811E91532200014E43 /* PortfolioCollectionViewCell.swift */; };
+		E4D8B7A01E9412B1004EA63A /* ContactViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4D8B79F1E9412B1004EA63A /* ContactViewController.swift */; };
+		E4D8B7A31E941347004EA63A /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E4D8B7A21E941347004EA63A /* MapKit.framework */; };
+		E4F02E9A1E955E89004C693F /* EmailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4F02E991E955E89004C693F /* EmailViewController.swift */; };
+		E4F02E9C1E95624A004C693F /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E4F02E9B1E95624A004C693F /* MessageUI.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +36,18 @@
 		E4164B9A1E87340C00661187 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E4164B9D1E87340C00661187 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E4164B9F1E87340C00661187 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E418096B1E96BF0E001B3F64 /* SocialTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SocialTableViewController.swift; sourceTree = "<group>"; };
+		E418096D1E96BF21001B3F64 /* SocialTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SocialTableViewCell.swift; sourceTree = "<group>"; };
+		E418096F1E96BF43001B3F64 /* SocialViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SocialViewController.swift; sourceTree = "<group>"; };
+		E425A5521E8985210009DD46 /* ServicesTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ServicesTableViewController.swift; sourceTree = "<group>"; };
+		E425A5541E89853E0009DD46 /* ServicesTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ServicesTableViewCell.swift; sourceTree = "<group>"; };
+		E425A5561E8985720009DD46 /* ServicesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ServicesViewController.swift; sourceTree = "<group>"; };
+		E482F67F1E91530000014E43 /* PortfolioCollectionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PortfolioCollectionViewController.swift; sourceTree = "<group>"; };
+		E482F6811E91532200014E43 /* PortfolioCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PortfolioCollectionViewCell.swift; sourceTree = "<group>"; };
+		E4D8B79F1E9412B1004EA63A /* ContactViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContactViewController.swift; sourceTree = "<group>"; };
+		E4D8B7A21E941347004EA63A /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		E4F02E991E955E89004C693F /* EmailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EmailViewController.swift; sourceTree = "<group>"; };
+		E4F02E9B1E95624A004C693F /* MessageUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MessageUI.framework; path = System/Library/Frameworks/MessageUI.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,6 +55,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E4F02E9C1E95624A004C693F /* MessageUI.framework in Frameworks */,
+				E4D8B7A31E941347004EA63A /* MapKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -42,6 +68,7 @@
 			children = (
 				E4164B901E87340C00661187 /* BusinessApp */,
 				E4164B8F1E87340C00661187 /* Products */,
+				E4D8B7A11E941346004EA63A /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -60,11 +87,64 @@
 				E4164B931E87340C00661187 /* FirstViewController.swift */,
 				E4164B951E87340C00661187 /* SecondViewController.swift */,
 				E4164B971E87340C00661187 /* Main.storyboard */,
+				E418096A1E96BEEE001B3F64 /* Social */,
+				E482F67E1E9152CE00014E43 /* Portfolio */,
+				E425A5511E8984F40009DD46 /* Services */,
+				E4D8B79E1E94127C004EA63A /* Contact Us */,
 				E4164B9A1E87340C00661187 /* Assets.xcassets */,
 				E4164B9C1E87340C00661187 /* LaunchScreen.storyboard */,
 				E4164B9F1E87340C00661187 /* Info.plist */,
 			);
 			path = BusinessApp;
+			sourceTree = "<group>";
+		};
+		E418096A1E96BEEE001B3F64 /* Social */ = {
+			isa = PBXGroup;
+			children = (
+				E418096B1E96BF0E001B3F64 /* SocialTableViewController.swift */,
+				E418096D1E96BF21001B3F64 /* SocialTableViewCell.swift */,
+				E418096F1E96BF43001B3F64 /* SocialViewController.swift */,
+			);
+			name = Social;
+			path = ..;
+			sourceTree = "<group>";
+		};
+		E425A5511E8984F40009DD46 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				E425A5521E8985210009DD46 /* ServicesTableViewController.swift */,
+				E425A5541E89853E0009DD46 /* ServicesTableViewCell.swift */,
+				E425A5561E8985720009DD46 /* ServicesViewController.swift */,
+			);
+			name = Services;
+			sourceTree = "<group>";
+		};
+		E482F67E1E9152CE00014E43 /* Portfolio */ = {
+			isa = PBXGroup;
+			children = (
+				E482F67F1E91530000014E43 /* PortfolioCollectionViewController.swift */,
+				E482F6811E91532200014E43 /* PortfolioCollectionViewCell.swift */,
+			);
+			name = Portfolio;
+			sourceTree = "<group>";
+		};
+		E4D8B79E1E94127C004EA63A /* Contact Us */ = {
+			isa = PBXGroup;
+			children = (
+				E4D8B79F1E9412B1004EA63A /* ContactViewController.swift */,
+				E4F02E991E955E89004C693F /* EmailViewController.swift */,
+			);
+			name = "Contact Us";
+			path = ..;
+			sourceTree = "<group>";
+		};
+		E4D8B7A11E941346004EA63A /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				E4F02E9B1E95624A004C693F /* MessageUI.framework */,
+				E4D8B7A21E941347004EA63A /* MapKit.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -140,9 +220,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E425A5571E8985720009DD46 /* ServicesViewController.swift in Sources */,
+				E482F6801E91530000014E43 /* PortfolioCollectionViewController.swift in Sources */,
+				E41809701E96BF43001B3F64 /* SocialViewController.swift in Sources */,
+				E425A5551E89853E0009DD46 /* ServicesTableViewCell.swift in Sources */,
 				E4164B961E87340C00661187 /* SecondViewController.swift in Sources */,
+				E425A5531E8985210009DD46 /* ServicesTableViewController.swift in Sources */,
+				E4D8B7A01E9412B1004EA63A /* ContactViewController.swift in Sources */,
 				E4164B921E87340C00661187 /* AppDelegate.swift in Sources */,
+				E482F6821E91532200014E43 /* PortfolioCollectionViewCell.swift in Sources */,
 				E4164B941E87340C00661187 /* FirstViewController.swift in Sources */,
+				E418096C1E96BF0E001B3F64 /* SocialTableViewController.swift in Sources */,
+				E418096E1E96BF21001B3F64 /* SocialTableViewCell.swift in Sources */,
+				E4F02E9A1E955E89004C693F /* EmailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -304,6 +394,7 @@
 				E4164BA41E87340C00661187 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

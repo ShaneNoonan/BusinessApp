@@ -20,6 +20,25 @@ class FirstViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
+    @IBAction func services(_ sender: Any) {
+        
+        self.tabBarController?.selectedIndex = 2
+    }
 
+    @IBAction func aboutUs(_ sender: Any) {
+        
+        self.tabBarController?.selectedIndex = 1
+    }
+    
+    @IBAction func Portfollio(_ sender: Any) {
+        
+        self.tabBarController?.selectedIndex = 3
+    }
+    
+    @IBAction func contactUs(_ sender: Any) {
+        
+        self.tabBarController?.selectedIndex = 4
+    }
+    
 }
 
